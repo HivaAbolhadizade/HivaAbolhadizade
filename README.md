@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hiva Abolhadizadeh 👋
 
-<!--
-**HivaAbolhadizade/HivaAbolhadizade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Undergraduate**  
+📍 Shahid Bahonar University of Kerman (UoK), Iran  
+📧 h.abolhadi.ac@gmail.com | [LinkedIn](https://www.linkedin.com/in/hivaabolhadizade/) | [GitHub](https://github.com/HivaAbolhadizade)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+- Deep Learning
+- Machine Learning
+- Computer Vision
+
+---
+
+## 🛠️ Skills
+
+**Languages**: Python, C#, JavaScript, HTML, CSS, SQLite  
+**Libraries & Frameworks**: NumPy, Pandas, Matplotlib, Seaborn, OpenCV, PyTorch, TensorFlow, Keras, scikit-learn, Django, React
+**Tools**: Git, LaTeX  
+
+---
+
+Thanks for visiting! Feel free to explore my repositories and connect! 🌱

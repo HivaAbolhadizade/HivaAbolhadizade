@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hiva Abolhadizadeh 👋</h1>
+<h1 align="left">Hi, I'm Hiva Abolhadizadeh 👋</h1>
 
 🎓 Computer Engineering Undergraduate (4th year)  
 📍 Shahid Bahonar University of Kerman (UoK), Iran  
@@ -9,24 +9,24 @@
 
 ## 🧠 About Me
 
-I’m a 4th-year Computer Engineering student with a growing focus on **Artificial Intelligence**.  
-I built a strong foundation in **Machine Learning** by deeply studying it through a dedicated university course, which sparked my passion for the field.  
-Currently, I'm expanding my knowledge in **Deep Learning**, with hands-on projects in **Image Processing** and **Natural Language Processing (NLP)**.  
-I enjoy applying theoretical knowledge to real-world problems and am committed to continuous learning and improvement.  
-  
-Feel free to connect with me — I’m always open to collaboration and new ideas!
+Hi! I'm a 4th-year Computer Engineering student at Shahid Bahonar University of Kerman, passionate about AI and building smart systems that solve real-world problems.
+My journey began with a deep dive into Machine Learning through university courses, and since then, I've been working on hands-on projects in Deep Learning, Computer Vision, and NLP.
+
+I enjoy contributing to open-source, exploring how machines learn, and experimenting with tools like PyTorch, TensorFlow, and OpenCV.
+Currently exploring: AI for Healthcare and Human-like reasoning in AI systems.
+
+Always up for collaboration — check out my projects below or drop me a message!
 
 ---
 
 ## 🔬 Research Interests
 
 - Deep Learning  
-- Image Processing  
+- Image Processing & Computer Vision 
 - Natural Language Processing (NLP)  
-- Computer Vision  
 - Machine Learning  
 - AI for Healthcare  
-- Human-level AI (Artificial General Intelligence) – I'm fascinated by how AI can learn and reason like humans
+- Human-level AI (Artificial General Intelligence)
 
 ---
 
@@ -53,13 +53,23 @@ Feel free to connect with me — I’m always open to collaboration and new idea
 
 ---
 
-## 🧰 Skills
+### 🧰 Skills
 
-- **Languages & Frameworks**: Python, C#, JavaScript, HTML/CSS, Django, React  
-- **ML & DL Tools**: PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, OpenCV  
-- **Databases**: SQLite  
-- **Tools**: Git, LaTeX  
-- **Soft Skills**: Teamwork, Research, Problem-solving, Communication
+**Languages & Frameworks:**  
+Python, C#, JavaScript, HTML/CSS, Django, React
+
+**ML & DL Tools:**  
+PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, OpenCV
+
+**Databases:**  
+SQLite
+
+**Tools:**  
+Git, LaTeX
+
+**Soft Skills:**  
+Teamwork, Research, Problem-solving, Communication
+
 
 ---
 

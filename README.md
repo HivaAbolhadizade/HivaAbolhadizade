@@ -30,7 +30,6 @@ Feel free to connect with me — I’m always open to collaboration and new idea
 
 ---
 
-
 ## 🛠️ Languages and Tools
 
 <p>

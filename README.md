@@ -9,11 +9,13 @@
 
 ## 🧠 About Me
 
-Hi! I'm a 4th-year Computer Engineering student at Shahid Bahonar University of Kerman, passionate about AI and building smart systems that solve real-world problems.
-My journey began with a deep dive into Machine Learning through university courses, and since then, I've been working on hands-on projects in Deep Learning, Computer Vision, and NLP.
+Hi! I'm a 4th-year Computer Engineering student at Shahid Bahonar University of Kerman, passionate about AI and building smart systems that solve real-world problems.  
+My journey began with a deep dive into Machine Learning through university courses, and since then, I've been working on hands-on projects in **Deep Learning**, **Computer Vision**, and **NLP**.
 
-I enjoy contributing to open-source, exploring how machines learn, and experimenting with tools like PyTorch, TensorFlow, and OpenCV.
-Currently exploring: AI for Healthcare and Human-like reasoning in AI systems.
+Right now, I'm focused on mastering Deep Learning through a structured, topic-rich curriculum — exploring everything from neural networks and optimization to **Transformers**, **GANs**, **Diffusion Models**, and **Self-Supervised Learning**.
+
+I enjoy contributing to open-source, exploring how machines learn, and experimenting with tools like **PyTorch**, **TensorFlow**, and **OpenCV**.  
+Currently exploring: **AI for Healthcare** and **Human-like reasoning in AI systems**.
 
 Always up for collaboration — check out my projects below or drop me a message!
 

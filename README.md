@@ -2,7 +2,7 @@
 
 🎓 **Computer Engineering Undergraduate**  
 📍 Shahid Bahonar University of Kerman (UoK), Iran  
-📧 h.abolhadi.ac@gmail.com | [LinkedIn](https://www.linkedin.com/in/hivaabolhadizade/) | [GitHub](https://github.com/HivaAbolhadizade)
+📧 hivaabolhadi@gmail.com | [LinkedIn](https://www.linkedin.com/in/hivaabolhadizade/)
 
 ---
 

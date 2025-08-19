@@ -70,8 +70,29 @@ Always up for collaboration — check out my projects below or drop me a message
 
 ---
 
+## 📂 Projects
+
+### 🧠 Machine Learning
+- [**AI-Healthcare-Prediction**](https://github.com/HivaAbolhadizade/AI-Healthcare-Prediction) – Predicting patient outcomes using deep learning and structured datasets.
+- [**Salary-Classification**](https://github.com/HivaAbolhadizade/Salary-Classification) – Binary classification using decision trees and logistic regression.
+
+### 🖼️ Computer Vision
+- [**Mouse-Paw-Detection**](https://github.com/HivaAbolhadizade/Mouse-Paw-Detection) – Automated detection pipeline for lab experiments using deep learning.
+- [**Image-Captioning**](https://github.com/HivaAbolhadizade/Image-Captioning) – Generating descriptive captions from images using CNN + Transformer models.
+
+### 🧾 Natural Language Processing
+- [**News-Similarity-Checker**](https://github.com/HivaAbolhadizade/News-Similarity-Checker) – Comparing news articles using Cosine Similarity and NLP pipelines.
+- [**LLM-Reasoning-Review**](https://github.com/HivaAbolhadizade/LLM-Reasoning-Review) – Review and implementation of cognitive & computational approaches in LLM reasoning.
+
+### 🌐 Web & Full-stack
+- [**Portfolio-Website**](https://github.com/HivaAbolhadizade/Portfolio-Website) – Built with React and Django to showcase projects and skills.
+- [**Blog-Platform**](https://github.com/HivaAbolhadizade/Blog-Platform) – Full-stack blog application with user authentication and content management.
+
+---
+
+## 📫 Contact Me
 📫 *Thanks for visiting! Let’s connect and build something impactful together.*
 
-📧 Email: hivaabolhadi@gmail.com  
+- 📧 Email: hivaabolhadi@gmail.com  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/hivaabolhadizade) |
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hivaabolhadizade) |

@@ -72,21 +72,41 @@ Always up for collaboration — check out my projects below or drop me a message
 
 ## 📂 Projects
 
-### 🧠 Machine Learning
-- [**AI-Healthcare-Prediction**](https://github.com/HivaAbolhadizade/AI-Healthcare-Prediction) – Predicting patient outcomes using deep learning and structured datasets.
-- [**Salary-Classification**](https://github.com/HivaAbolhadizade/Salary-Classification) – Binary classification using decision trees and logistic regression.
+<h2>📂 Projects</h2>
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
-### 🖼️ Computer Vision
-- [**Mouse-Paw-Detection**](https://github.com/HivaAbolhadizade/Mouse-Paw-Detection) – Automated detection pipeline for lab experiments using deep learning.
-- [**Image-Captioning**](https://github.com/HivaAbolhadizade/Image-Captioning) – Generating descriptive captions from images using CNN + Transformer models.
+  <!-- Machine Learning -->
+  <div style="border:1px solid #ccc; border-radius:10px; padding:15px; width:300px;">
+    <h3>🧠 Machine Learning</h3>
+    <ul>
+      <li>
+        <a href="https://github.com/HivaAbolhadizade/AI-Healthcare-Prediction" target="_blank"><strong>AI Healthcare Prediction</strong></a>
+        <p>Predicting patient outcomes using <strong>deep learning</strong> and structured datasets.</p>
+      </li>
+      <li>
+        <a href="https://github.com/HivaAbolhadizade/Salary-Classification" target="_blank"><strong>Salary Classification</strong></a>
+        <p>Binary classification using <strong>decision trees</strong> and <strong>logistic regression</strong>.</p>
+      </li>
+    </ul>
+  </div>
 
-### 🧾 Natural Language Processing
-- [**News-Similarity-Checker**](https://github.com/HivaAbolhadizade/News-Similarity-Checker) – Comparing news articles using Cosine Similarity and NLP pipelines.
-- [**LLM-Reasoning-Review**](https://github.com/HivaAbolhadizade/LLM-Reasoning-Review) – Review and implementation of cognitive & computational approaches in LLM reasoning.
+  <!-- Computer Vision -->
+  <div style="border:1px solid #ccc; border-radius:10px; padding:15px; width:300px;">
+    <h3>🖼️ Computer Vision</h3>
+    <ul>
+      <li>
+        <a href="https://github.com/HivaAbolhadizade/Mouse-Paw-Detection" target="_blank"><strong>Mouse Paw Detection</strong></a>
+        <p>Automated detection pipeline for lab experiments using <strong>deep learning</strong>.</p>
+      </li>
+      <li>
+        <a href="https://github.com/HivaAbolhadizade/Image-Captioning" target="_blank"><strong>Image Captioning</strong></a>
+        <p>Generating captions from images using <strong>CNN + Transformer</strong> models.</p>
+      </li>
+    </ul>
+  </div>
 
-### 🌐 Web & Full-stack
-- [**Portfolio-Website**](https://github.com/HivaAbolhadizade/Portfolio-Website) – Built with React and Django to showcase projects and skills.
-- [**Blog-Platform**](https://github.com/HivaAbolhadizade/Blog-Platform) – Full-stack blog application with user authentication and content management.
+</div>
+
 
 ---
 

@@ -1,4 +1,7 @@
-<h1 align="left">Hi, I'm Hiva Abolhadizadeh 👋</h1>
+<h1 align="left">Hi, I'm Hiva. 👋</h1>
+<p align="left" style="font-size:14px; color:gray;">
+   <i>Pronounced: Hee-vah (/ˈhiː.vɑː/)</i>
+</p>
 
 🎓 Computer Engineering Undergraduate (4th year)  
 📍 Shahid Bahonar University of Kerman (UoK), Iran  

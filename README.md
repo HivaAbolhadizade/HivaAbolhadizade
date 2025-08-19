@@ -72,23 +72,32 @@ Always up for collaboration — check out my projects below or drop me a message
 
 ## 📂 Projects
 
-### 🧠 Machine Learning
-- [![AI-Healthcare-Prediction](https://img.shields.io/badge/AI-Healthcare-Prediction-blue?style=for-the-badge)](https://github.com/HivaAbolhadizade/AI-Healthcare-Prediction)  
-- [![Salary-Classification](https://img.shields.io/badge/Salary-Classification-green?style=for-the-badge)](https://github.com/HivaAbolhadizade/Salary-Classification)  
-
+### 🤖 Machine Learning
+- [**Machine-Learning-Fall-2024-SBUK**](https://github.com/HivaAbolhadizade/Machine-Learning-Fall-2024-SBUK) – Machine Learning course repository for Fall 2024 at Shahid Bahonar University. Contains projects related to supervised and unsupervised learning, deep learning, and other ML concepts.
+- [**Tron-Battle-AI-Rule-Based-vs.-Q-Learning**](https://github.com/HivaAbolhadizade/Tron-Battle-AI-Rule-Based-vs.-Q-Learning) – This project is the final report for the Artificial Intelligence Course at the Bahonar University of Kerman in the Fall 2024 semester. It compares two decision-making approaches in the Tron Battle game: 1. A Simple Rule-Based Algorithm, 2. A Reinforcement Learning (Q-Learning) Approach.
+- [**PredictingDiabetesClassification**](https://github.com/HivaAbolhadizade/PredictingDiabetesClassfication) – Implementing a machine learning model to predict diabetes in individuals, utilizing carefully preprocessed health data and various algorithms for accurate results.
+  
+### 🧠 Deep Learning
+- [**TransferLearning-Normalization-MobileNetV2-CIFAR10**](https://github.com/HivaAbolhadizade/TransferLearning-Normalization-MobileNetV2-CIFAR10) – Implementation and analysis of different normalization techniques and gradient clipping in Transfer Learning with MobileNetV2 on CIFAR-10, conducted as a project for the Spring 2025 Special Topics in Artificial Intelligence (Deep Learning) course.
+- [**Salary-Classification**](https://github.com/HivaAbolhadizade/Salary-Classification) – Binary classification using decision trees and logistic regression.
 
 ### 🖼️ Computer Vision
-- [![Image-Captioning](https://img.shields.io/badge/Image-Captioning-purple?style=for-the-badge)](https://github.com/HivaAbolhadizade/Image-Captioning)  
-
+- [**Image-Captioning**](https://github.com/HivaAbolhadizade/Image-Captioning) – Generating descriptive captions from images using CNN + LSTM.
+- [**WareHouseRobot_Project**](https://github.com/HivaAbolhadizade/WareHouseRobot_Project) – The WareHouseRobot_Project is an intelligent warehouse robot that uses computer vision to detect objects, enabling automated item handling and obstacle avoidance.
 
 ### 🧾 Natural Language Processing
-- [![News-Similarity-Checker](https://img.shields.io/badge/News-Similarity-Checker-orange?style=for-the-badge)](https://github.com/HivaAbolhadizade/News-Similarity-Checker)  
-- [![gpt2-lora-squad-finetuning](https://img.shields.io/badge/LLM-Reasoning-Review-yellow?style=for-the-badge)](https://github.com/HivaAbolhadizade/LLM-Reasoning-Review)  
+- [**gpt2-lora-squad-finetuning**](https://github.com/HivaAbolhadizade/gpt2-lora-squad-finetuning) – Efficient fine-tuning of GPT-2 using LoRA on the SQuAD dataset for question answering tasks.
+- [**News-Similarity-Checker**](https://github.com/HivaAbolhadizade/NewsSimilarityChecker) – Comparing news articles using Cosine Similarity and NLP pipelines.
 
-
+### ⏱️ Algorithms & Mini-Systems
+- [**Genetic-vs.-Imperialist**](https://github.com/HivaAbolhadizade/Genetic-vs.-Imperialist) – Implementations of Genetic Algorithm and Imperialist Competitive Algorithm for optimization problems.
+- [**DiningPhilosopher**](https://github.com/HivaAbolhadizade/DiningPhilosopher) – Python implementation of the Dining Philosopher Problem using semaphores to prevent deadlock and starvation.
+- [**Room-Temperature-Control-with-Fuzzy-Logic**](https://github.com/HivaAbolhadizade/Room-Temperature-Control-with-Fuzzy-Logic) – Temperature control system using Fuzzy Logic for dynamic adjustment of room temperature.
+- [**FileExplorer**](https://github.com/HivaAbolhadizade/FileExplorer) – C# application with hierarchical file management supporting create, delete, and copy operations.
+- [**fuzzy-washing-machine-in-assembly-x86**](https://github.com/HivaAbolhadizade/fuzzy-washing-machine-in-assembly-x86) – Smart washing machine control system using fuzzy logic implemented on 8086 microprocessor.
+  
 ### 🌐 Web & Full-stack
-- [![Blog-Platform](https://img.shields.io/badge/Blog-Platform-pink?style=for-the-badge)](https://github.com/HivaAbolhadizade/Blog-Platform)  
-  Full-stack blog application with **user authentication** and content management.
+- [**Sana-project**](https://github.com/HivaAbolhadizade/Sana-project) – A web-based app built with HTML, CSS, JS, and Django. Helps schools manage and track student discipline records.
 
 
 

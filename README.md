@@ -71,5 +71,7 @@ Always up for collaboration — check out my projects below or drop me a message
 ---
 
 📫 *Thanks for visiting! Let’s connect and build something impactful together.*
+
 📧 Email: hivaabolhadi@gmail.com  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/hivaabolhadizade) |

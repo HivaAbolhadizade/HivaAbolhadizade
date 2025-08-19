@@ -79,7 +79,6 @@ Always up for collaboration — check out my projects below or drop me a message
   
 ### 🧠 Deep Learning
 - [**TransferLearning-Normalization-MobileNetV2-CIFAR10**](https://github.com/HivaAbolhadizade/TransferLearning-Normalization-MobileNetV2-CIFAR10) – Implementation and analysis of different normalization techniques and gradient clipping in Transfer Learning with MobileNetV2 on CIFAR-10, conducted as a project for the Spring 2025 Special Topics in Artificial Intelligence (Deep Learning) course.
-- [**Salary-Classification**](https://github.com/HivaAbolhadizade/Salary-Classification) – Binary classification using decision trees and logistic regression.
 
 ### 🖼️ Computer Vision
 - [**Image-Captioning**](https://github.com/HivaAbolhadizade/Image-Captioning) – Generating descriptive captions from images using CNN + LSTM.

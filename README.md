@@ -72,40 +72,24 @@ Always up for collaboration — check out my projects below or drop me a message
 
 ## 📂 Projects
 
-<h2>📂 Projects</h2>
-<div style="display:flex; flex-wrap:wrap; gap:20px;">
+### 🧠 Machine Learning
+- [![AI-Healthcare-Prediction](https://img.shields.io/badge/AI-Healthcare-Prediction-blue?style=for-the-badge)](https://github.com/HivaAbolhadizade/AI-Healthcare-Prediction)  
+- [![Salary-Classification](https://img.shields.io/badge/Salary-Classification-green?style=for-the-badge)](https://github.com/HivaAbolhadizade/Salary-Classification)  
 
-  <!-- Machine Learning -->
-  <div style="border:1px solid #ccc; border-radius:10px; padding:15px; width:300px;">
-    <h3>🧠 Machine Learning</h3>
-    <ul>
-      <li>
-        <a href="https://github.com/HivaAbolhadizade/AI-Healthcare-Prediction" target="_blank"><strong>AI Healthcare Prediction</strong></a>
-        <p>Predicting patient outcomes using <strong>deep learning</strong> and structured datasets.</p>
-      </li>
-      <li>
-        <a href="https://github.com/HivaAbolhadizade/Salary-Classification" target="_blank"><strong>Salary Classification</strong></a>
-        <p>Binary classification using <strong>decision trees</strong> and <strong>logistic regression</strong>.</p>
-      </li>
-    </ul>
-  </div>
 
-  <!-- Computer Vision -->
-  <div style="border:1px solid #ccc; border-radius:10px; padding:15px; width:300px;">
-    <h3>🖼️ Computer Vision</h3>
-    <ul>
-      <li>
-        <a href="https://github.com/HivaAbolhadizade/Mouse-Paw-Detection" target="_blank"><strong>Mouse Paw Detection</strong></a>
-        <p>Automated detection pipeline for lab experiments using <strong>deep learning</strong>.</p>
-      </li>
-      <li>
-        <a href="https://github.com/HivaAbolhadizade/Image-Captioning" target="_blank"><strong>Image Captioning</strong></a>
-        <p>Generating captions from images using <strong>CNN + Transformer</strong> models.</p>
-      </li>
-    </ul>
-  </div>
+### 🖼️ Computer Vision
+- [![Image-Captioning](https://img.shields.io/badge/Image-Captioning-purple?style=for-the-badge)](https://github.com/HivaAbolhadizade/Image-Captioning)  
 
-</div>
+
+### 🧾 Natural Language Processing
+- [![News-Similarity-Checker](https://img.shields.io/badge/News-Similarity-Checker-orange?style=for-the-badge)](https://github.com/HivaAbolhadizade/News-Similarity-Checker)  
+- [![gpt2-lora-squad-finetuning](https://img.shields.io/badge/LLM-Reasoning-Review-yellow?style=for-the-badge)](https://github.com/HivaAbolhadizade/LLM-Reasoning-Review)  
+
+
+### 🌐 Web & Full-stack
+- [![Blog-Platform](https://img.shields.io/badge/Blog-Platform-pink?style=for-the-badge)](https://github.com/HivaAbolhadizade/Blog-Platform)  
+  Full-stack blog application with **user authentication** and content management.
+
 
 
 ---
